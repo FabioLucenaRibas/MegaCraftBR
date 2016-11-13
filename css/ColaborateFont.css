@@ -1,0 +1,76 @@
+@font-face {
+    font-family:'colaborate-mediumregular';
+    src: url('../Fonts/colabmed-webfont.eot');
+    src: url('../Fonts/colabmed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/colabmed-webfont.woff') format('woff'),
+         url('../Fonts/colabmed-webfont.ttf') format('truetype'),
+         url('../Fonts/colabmed-webfont.svg#colaborate-mediumregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:'colaborate-thinregular';
+    src: url('../Fonts/colabthi-webfont.eot');
+    src: url('../Fonts/colabthi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/colabthi-webfont.woff') format('woff'),
+         url('../Fonts/colabthi-webfont.ttf') format('truetype'),
+         url('../Fonts/colabthi-webfont.svg#colaborate-thinregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:'colaborate-boldregular';
+    src: url('../Fonts/colabbol-webfont.eot');
+    src: url('../Fonts/colabbol-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/colabbol-webfont.woff') format('woff'),
+         url('../Fonts/colabbol-webfont.ttf') format('truetype'),
+         url('../Fonts/colabbol-webfont.svg#colaborate-boldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:'colaboratelightregular';
+    src: url('../Fonts/colablig-webfont.eot');
+    src: url('../Fonts/colablig-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/colablig-webfont.woff') format('woff'),
+         url('../Fonts/colablig-webfont.ttf') format('truetype'),
+         url('../Fonts/colablig-webfont.svg#colaboratelightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family:'colaborate-regularregular';
+    src: url('../Fonts/colabreg-webfont.eot');
+    src: url('../Fonts/colabreg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/colabreg-webfont.woff') format('woff'),
+         url('../Fonts/colabreg-webfont.ttf') format('truetype'),
+         url('../Fonts/colabreg-webfont.svg#colaborate-regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family:'open_sansregular';
+    src: url('../Fonts/opensans-regular-webfont.eot');
+    src: url('../Fonts/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/opensans-regular-webfont.woff') format('woff'),
+         url('../Fonts/opensans-regular-webfont.ttf') format('truetype'),
+         url('../Fonts/opensans-regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:'open_sansbold';
+    src: url('../Fonts/opensans-bold-webfont.eot');
+    src: url('../Fonts/opensans-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/opensans-bold-webfont.woff') format('woff'),
+         url('../Fonts/opensans-bold-webfont.ttf') format('truetype'),
+         url('../Fonts/opensans-bold-webfont.svg#open_sansbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
